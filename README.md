@@ -1,14 +1,5 @@
 # ModernX
 >
-> [!IMPORTANT]
-> This script is updated more frequently at [mpvconfig](https://github.com/zydezu/mpvconfig), stable builds are released here in the [releases](https://github.com/zydezu/ModernX/releases) tab.
-
-A fork of modernX (based on [mpv-osc-modern](https://github.com/maoiscat/mpv-osc-modern/)), that aims to mirror the functionality of MPV's stock OSC while with a more modern-looking interface.
-
-![image](preview.jpg)
-
-> [!NOTE]
-> This script is included in my [mpvconfig](https://github.com/zydezu/mpvconfig), check that repository for a full mpv configuration
 
 ## Additional Features
 
